@@ -131,3 +131,7 @@ CurrencyFieldUtils.bindThousandsFormatting(totalPriceField);
 فأى قاعدة جديدة (Regex أو شرط مخصص) ممكن تتضاف كدالة `static void` جديدة فى نفس الكلاس بسطرين بس.
 نفس الفكرة تنطبق على باقى الكلاسات: أى أداة عامة جديدة محتاجها فى أكتر من مشروع تتضاف كـ `static` method
 فى الباكدج المناسب (`validation` / `dialog` / `form` / `control`)، أو باكدج جديد لو الفكرة نوع مختلف تمامًا.
+
+## الترخيص
+
+المشروع مرخّص تحت [MIT License](LICENSE).
