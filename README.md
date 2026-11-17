@@ -1,5 +1,7 @@
 # fx-commons
 
+![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-21-1F6FB2) ![Maven](https://img.shields.io/badge/Maven-library-C71A36?logo=apachemaven&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 مكتبة جافا خفيفة قابلة لإعادة الاستخدام فى أى مشروع JavaFX، بتجمع الأدوات اللى بتتكرر
 فى أكتر من مشروع بدل ما تتكتب من الأول كل مرة.
 
